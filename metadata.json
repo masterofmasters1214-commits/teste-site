@@ -1,0 +1,17 @@
+{
+    "layout_id": 45,
+    "user_id": 2,
+    "website_id": 2,
+    "brand": "Leia Araujo",
+    "generated_at": "2025-11-18T03:59:29+00:00",
+    "schema_present": false,
+    "has_html": true,
+    "has_css": true,
+    "has_js": true,
+    "asset_count": 1,
+    "asset_files": [
+        "img/logo.jpg"
+    ],
+    "data_embedded": true,
+    "minified": true
+}
